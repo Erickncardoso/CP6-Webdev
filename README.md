@@ -1,5 +1,9 @@
 ![](./fiap.png)
 
+# Alunos
+- Erick Cardoso - RM 560440
+- Davi Daparé - RM 560721
+
 # Web development 2024/2
 
 
